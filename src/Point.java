@@ -6,8 +6,6 @@ public class Point
     public float x = 0;
     public float y = 0;
     public boolean highlight = false;
-    public boolean deleted = false;
-    public Point parent = null;
 
     public Point(float x, float y)
     {
